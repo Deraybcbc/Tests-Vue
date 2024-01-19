@@ -5,7 +5,7 @@
     </form>
 </template>
 
-<script>
+<script setup lang="ts">
 // ¡Recuerda! usar script lang="ts"
 import { ref } from 'vue'
 
